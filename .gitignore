@@ -1,0 +1,8 @@
+# build output
+web/WEB-INF/classes/
+web/WEB-INF/lib/
+# downloaded tools / local database / uploaded files
+tools/
+mysql-data/
+evidence-storage/*
+!evidence-storage/.gitkeep
